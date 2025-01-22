@@ -20,6 +20,7 @@ I'm a passionate Software Engineer from Teutônia, Rio Grande do Sul, Brazil, wi
 - **Frameworks & Tools**: React, Laravel, Node.js, Fiber, Htmx, TypeScript, PostgreSQL
 - **Database**: PostgreSQL
 - **Other Tools**: Docker
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## 🌟 Projects
 - **[ShipBuilder](https://github.com/arthurwieb/go-api-shipbuilder)**: A planner tool for the UO Outlands server, improving user quality of life.
@@ -33,6 +34,5 @@ I'm a passionate Software Engineer from Teutônia, Rio Grande do Sul, Brazil, wi
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurwieb&layout=compact&theme=dark)
 
 ## 📫 Let's Connect
-- GitHub: [arthurwieb](https://github.com/arthurwieb)
 - Email: [arthur.wieb@gmail.com](mailto:arthur.wieb@gmail.com)
 - LinkedIn: [Your LinkedIn Profile (optional)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/arthur-wiebusch-b87348160/))  
