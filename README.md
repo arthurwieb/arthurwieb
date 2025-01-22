@@ -17,10 +17,8 @@ I'm a passionate Software Engineer from Teutônia, Rio Grande do Sul, Brazil, wi
 
 ## 🛠️ Tech Stack
 - **Languages**: Python, PHP, Golang, JavaScript
-- **Frameworks & Tools**: React, Laravel, Node.js, Fiber, Htmx, TypeScript, PostgreSQL
-- **Database**: PostgreSQL
-- **Other Tools**: Docker
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+- **Frameworks & Tools**: React, Laravel, Node.js, Fiber, Htmx, TypeScript, PostgreSQL, Docker
+- **Database**: PostgreSQL, MongoDB
 
 ## 🌟 Projects
 - **[ShipBuilder](https://github.com/arthurwieb/go-api-shipbuilder)**: A planner tool for the UO Outlands server, improving user quality of life.
