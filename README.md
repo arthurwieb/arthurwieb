@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Arthur Machado Wiebusch
+# Hi there! 👋 I'm Arthur
 
 ## 🚀 About Me
 I'm a passionate Software Engineer from Teutônia, Rio Grande do Sul, Brazil, with a strong background in building efficient and scalable solutions. I thrive on solving complex problems and leveraging modern technologies to create impactful software.
