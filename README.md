@@ -33,4 +33,4 @@ I'm a passionate Software Engineer from Teutônia, Rio Grande do Sul, Brazil, wi
 
 ## 📫 Let's Connect
 - Email: [arthur.wieb@gmail.com](mailto:arthur.wieb@gmail.com)
-- LinkedIn: [Your LinkedIn Profile (optional)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/arthur-wiebusch-b87348160/))  
+- LinkedIn: https://www.linkedin.com/in/arthur-wiebusch-b87348160
