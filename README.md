@@ -5,7 +5,7 @@ I'm a passionate Software Engineer with a strong background in building efficien
 
 - 🌍 Fluent in English (speaking and reading), enabling seamless collaboration with international teams.
 - 💡 Experienced in API development, accessibility improvements, and maintaining reliable platforms.
-- 🌱 Always eager to learn and grow, currently exploring advanced tools and frameworks like Fiber and TypeScript.
+- 🌱 Always eager to learn and grow.
 
 ## 💼 Professional Experience
 
