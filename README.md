@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Arthur
 
 ## 🚀 About Me
-I'm a passionate Software Engineer from Teutônia, Rio Grande do Sul, Brazil, with a strong background in building efficient and scalable solutions. I thrive on solving complex problems and leveraging modern technologies to create impactful software.
+I'm a passionate Software Engineer with a strong background in building efficient and scalable solutions. I thrive on solving complex problems and leveraging modern technologies to create impactful software.
 
 - 🌍 Fluent in English (speaking and reading), enabling seamless collaboration with international teams.
 - 💡 Experienced in API development, accessibility improvements, and maintaining reliable platforms.
