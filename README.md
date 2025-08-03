@@ -15,11 +15,6 @@ I'm a passionate Software Engineer with a strong background in building efficien
 ### Starline Technologies (May 2024 – Present)
 - **Starline WaBot Development**: Built a web-based chat service to enhance customer communication.
 
-## 🛠️ Tech Stack
-- **Languages**: Python, PHP, Golang, JavaScript
-- **Frameworks & Tools**: React, Laravel, Node.js, Fiber, Htmx, TypeScript, PostgreSQL, Docker
-- **Database**: PostgreSQL, MongoDB
-
 ## 🌟 Projects
 - **[ShipBuilder](https://github.com/arthurwieb/go-api-shipbuilder)**: A planner tool for the UO Outlands server, improving user quality of life.
 
@@ -33,4 +28,4 @@ I'm a passionate Software Engineer with a strong background in building efficien
 
 ## 📫 Let's Connect
 - Email: [arthur.wieb@gmail.com](mailto:arthur.wieb@gmail.com)
-- LinkedIn: https://www.linkedin.com/in/arthur-wiebusch-b87348160
+- LinkedIn: https://www.linkedin.com/in/arthur-wiebusch
