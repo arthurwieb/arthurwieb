@@ -1,31 +1,18 @@
-# Hi there! 👋 I'm Arthur
+### Arthur M. Wiebusch
 
-## 🚀 About Me
-I'm a passionate Software Engineer with a strong background in building efficient and scalable solutions. I thrive on solving complex problems and leveraging modern technologies to create impactful software.
+### Background
+Core Platform Engineer at Fintech Startup (May 2025 – Present)
+Raízen/STISOFT Development at Grupo AWTI (Dec 2022 – 2025)
+Development and API integration at Starline Technologies (May 2024 – 2025)
+Graduated from Uninter (Software Engineer)
+Certified in RocketSeat Explorer (React, Node.js, Jest)
+See my LinkedIn for more detailed background
 
-- 🌍 Fluent in English (speaking and reading), enabling seamless collaboration with international teams.
-- 💡 Experienced in API development, accessibility improvements, and maintaining reliable platforms.
-- 🌱 Always eager to learn and grow.
+### Languages of Focus
+Today, my primary focus is on web development, leveraging Next.js and Hono for a modern full-stack approach. I am also highly focused on Go for scalable backend solutions and have strong experience with PHP, JavaScript/TypeScript, React, and Node.js.
 
-## 💼 Professional Experience
-
-### Grupo AWTI (Dec 2022 – Present)
-- **STISOFT Development**: Designed features for hazardous materials transportation companies to improve compliance and efficiency.
-
-### Starline Technologies (May 2024 – Present)
-- **Starline WaBot Development**: Built a web-based chat service to enhance customer communication.
-
-## 🌟 Projects
-- **[ShipBuilder](https://github.com/arthurwieb/go-api-shipbuilder)**: A planner tool for the UO Outlands server, improving user quality of life.
-
-## 🎓 Education
-- **Uninter**: Software Engineer
-- **RocketSeat Explorer**: React, Node.js, Jest
-
-## 📈 GitHub Stats
-![Arthur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthurwieb&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurwieb&layout=compact&theme=dark)
-
-## 📫 Let's Connect
-- Email: [arthur.wieb@gmail.com](mailto:arthur.wieb@gmail.com)
-- LinkedIn: https://www.linkedin.com/in/arthur-wiebusch
+### Interests
+API development and optimization
+Creating efficient and scalable solutions
+Accessibility and platform reliability
+Open-source software
